@@ -21,7 +21,7 @@
       You can check my source code on Github:
       <NuxtLink
         class="underline"
-        to="https://twitter.com/nuxt_js"
+        to="https://github.com/adekferdian/Logique_Test"
         target="_blank"
       >
         Link
